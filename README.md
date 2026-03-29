@@ -1,6 +1,6 @@
 # Hi 👋, I'm Utkarsh kushwaha
 
-## A passionate student in Electronics & Communication Engeering 
+## A passionate student in Electronics & Communication Engineering 
 
 - 🌱 I’m currently learning Digital electronics
 - 💻 Ask me about C++, Python, C
