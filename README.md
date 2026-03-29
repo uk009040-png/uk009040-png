@@ -13,5 +13,5 @@
 
 ## Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=c++,c,python" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python" />
 
