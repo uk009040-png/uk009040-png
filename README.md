@@ -8,7 +8,7 @@
 
 - ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/utkarsh-kushwaha-6ba08a20b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)(www.linkedin.com/in/utkarsh-kushwaha-6ba08a20b)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com)
 
 ## Languages and Tools:
